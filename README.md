@@ -6,7 +6,7 @@ A set of tutorials and data for using Prodigy annotation tool in Digital Tolkien
 
 The very basics of text annotation using Prodigy, with an example of morphological annotations for Old English texts.
 
-Go to the sub-directory [prodigy_101](./prodigy_101./README.md) in this repository for the full walk-though and data including how to install Prodigy.
+Go to the sub-directory [prodigy_101](./prodigy_101/) in this repository for the full walk-though and data including how to install Prodigy.
 
 ## TBA
 
